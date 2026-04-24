@@ -160,6 +160,12 @@
         <mxCell id="kAsmY7xg8j0ADxocC4-G-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=270;" value="&lt;font face=&quot;Computer Modern Sans&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css&quot; style=&quot;color: rgb(52, 58, 64); font-size: 11px;&quot;&gt;Iterative Debugging Loop&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="137" x="-51" y="319" as="geometry" />
         </mxCell>
+        <mxCell id="kAsmY7xg8j0ADxocC4-G-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Computer Modern Sans&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Deployment Architecture of CORDIA for Programming Education&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="534.13" x="162.94" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kAsmY7xg8j0ADxocC4-G-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Computer Modern Sans&quot; data-font-src=&quot;https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css&quot; style=&quot;color: rgb(73, 80, 87); font-size: 13px;&quot;&gt;Expert System Architecture for Automated Pedagogical Code Diagnosis&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="740" x="60" y="599" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
