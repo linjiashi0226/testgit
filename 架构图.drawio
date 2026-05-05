@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="bHjcoaqsxp40kVLX9SDg">
-    <mxGraphModel dx="1208" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="669" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="669" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,10 +142,10 @@
           <mxGeometry height="30" width="60" x="479.72" y="423" as="geometry" />
         </mxCell>
         <mxCell id="qJxp1o21oOrExVZV-B8z-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1.9K&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Seed Samples&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110.78" x="454.33000000000004" y="520.62" as="geometry" />
+          <mxGeometry height="30" width="110.78" x="451.33000000000004" y="520.62" as="geometry" />
         </mxCell>
-        <mxCell id="qJxp1o21oOrExVZV-B8z-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Teacher LLM (DeepSeek)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="104.82" x="569.18" y="536" as="geometry" />
+        <mxCell id="qJxp1o21oOrExVZV-B8z-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;&amp;nbsp;(DeepSeek)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="104.82" x="573.1999999999999" y="562" as="geometry" />
         </mxCell>
         <mxCell id="qJxp1o21oOrExVZV-B8z-88" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#0de28b, #0089b6);strokeColor=#808080;fillStyle=solid;" value="" vertex="1">
           <mxGeometry height="65" width="80" x="719" y="471.5" as="geometry" />
@@ -229,17 +229,17 @@
         <mxCell id="qJxp1o21oOrExVZV-B8z-142" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="1290" y="334.09" as="geometry" />
         </mxCell>
-        <mxCell id="qJxp1o21oOrExVZV-B8z-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Computer Modern Sans&quot; style=&quot;font-size: 16px;&quot;&gt;LLM-as-a-Judge&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font face=&quot;Computer Modern Sans&quot; style=&quot;&quot;&gt;Localization&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;|&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Computer Modern Sans&amp;quot;;&quot;&gt;Clarity&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;|&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Computer Modern Sans&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Helpfulness&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="174.03" x="1407.98" y="536" as="geometry" />
+        <mxCell id="qJxp1o21oOrExVZV-B8z-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Computer Modern Sans&quot; style=&quot;font-size: 16px;&quot;&gt;LLM-as-a-Judge&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="174.03" x="1402.91" y="521.62" as="geometry" />
         </mxCell>
         <mxCell id="qJxp1o21oOrExVZV-B8z-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Computer Modern Sans&quot; style=&quot;&quot;&gt;1,800&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Computer Modern Sans&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lexical Evaluation&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="1328" y="194" as="geometry" />
         </mxCell>
         <mxCell id="qJxp1o21oOrExVZV-B8z-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;Computer Modern Sans&quot; style=&quot;&quot;&gt;100&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Computer Modern Sans&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Blind&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Computer Modern Sans&quot; style=&quot;font-size: 16px;&quot;&gt;Semantic&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Computer Modern Sans&quot; style=&quot;font-size: 16px;&quot;&gt;Evaluation&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="1320" y="513.48" as="geometry" />
+          <mxGeometry height="30" width="70" x="1326" y="513.48" as="geometry" />
         </mxCell>
-        <mxCell id="7naCtRYVh8RL-YfTVaNi-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Process-Oriented Distillation&lt;/font&gt;&lt;/i&gt;" vertex="1">
-          <mxGeometry height="30" width="133.17" x="554.4100000000001" y="573" as="geometry" />
+        <mxCell id="7naCtRYVh8RL-YfTVaNi-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Process-Oriented Distillation&lt;/font&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="133.17" x="560.0200000000001" y="535" as="geometry" />
         </mxCell>
         <mxCell id="7naCtRYVh8RL-YfTVaNi-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#CCCCCC;shadow=1;opacity=90;" value="" vertex="1">
           <mxGeometry height="48" width="84.5" x="575.1800000000001" y="480" as="geometry" />
@@ -285,6 +285,9 @@
             <mxPoint x="1350" y="260" as="sourcePoint" />
             <mxPoint x="1506" y="410.92" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dww9bhABG33Fr6o9yqjA-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;(ChatGPT-4o)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="97" x="1441.43" y="544" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
